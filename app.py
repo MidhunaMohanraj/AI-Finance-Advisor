@@ -7,7 +7,7 @@ import google.generativeai as genai
 import io
 import re
 from datetime import datetime
-       
+         
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="AI Finance Advisor",
